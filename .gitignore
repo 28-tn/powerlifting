@@ -1,3 +1,7 @@
 # Ignore Datasets #
 ###################
 *.csv
+
+# Ignore Jupyter Checkpoints #
+##############################
+.ipynb_checkpoints/*
