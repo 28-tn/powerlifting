@@ -14,6 +14,7 @@ The following python packages are used in the code:
 * Matplotlib
 * Math
 * Scikit-Learn
+
 You will also need Jupyter to display notebook.
 
 The dataset is too large for a github repository, but you can download it from https://www.openpowerlifting.org/data.
