@@ -15,12 +15,12 @@ The following python packages are used in the code:
 * Math
 * Scikit-Learn
 
-You will also need Jupyter to display notebook.
+You will also need Jupyter to display the notebook.
 
 The dataset is too large for a github repository, but you can download it from https://www.openpowerlifting.org/data.
 
-## HowTo
-The code and further explanations are arranged in the jupyter notebook.
+## HowTo and Results
+The code and further explanations are arranged in the jupyter notebook. A blog post about the results is published on https://medium.com/@28_tn/what-data-can-tell-us-about-powerlifting-453f27b330ad
 
 ## Acknowledgements
 This page uses data from the OpenPowerlifting project, https://www.openpowerlifting.org.
